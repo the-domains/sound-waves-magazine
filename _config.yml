@@ -1,0 +1,28 @@
+name: Sound Waves Magazine
+favicon: null
+layout_spectrum: 0.886107855476439
+typography_spectrum: 0.34483006433583796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3144047795794904
+  lightness: 0.5842458857223392
+  saturation: 0.0017509099561721087
+  rhythmicContrast: 0.5239622835069895
+purpose: []
